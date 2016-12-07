@@ -1,12 +1,12 @@
-# react-starter-kit
-React starter kit with webpack,sass and ES6
+# react-dnd-listview
+React DND listview with webpack,ES6
 
 ### Install from source
 
 First, clone the project:
 
 ```bash
-$ git clone https://github.com/bsjaffer/react-starter-kit.git
+$ git clone https://github.com/bsjaffer/react-dnd-listview.git
 ```
 
 Then install dependencies and check to see it works
