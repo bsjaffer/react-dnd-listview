@@ -15,4 +15,6 @@ Then install dependencies and check to see it works
 $ npm install                   # Install project dependencies
 $ npm run start                     # Compile and launch
 ```
-If everything works, you should hello world message in port 3333.
+If everything works, you should listview in a hierarchy form and DND will work on mobile.
+
+By changing  the DragDropContext it can be used in browsers too.
